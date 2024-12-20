@@ -1,6 +1,5 @@
 import java.io.*;
 import java.sql.*;
-
 public class ExceptionHandlingDemo {
     public static void main(String[] args) {
         // Checked Exceptions
